@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180506",
-		"title": "以圣经的教导建立家庭，避免陷入“婚姻毕业”的错谬",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180506.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201819/bf20180506/bf/bf180506.mp3",
-		"id": 1180506
-	},
-	{
 		"time": "20180512",
 		"title": "妈妈的人生是主爱的痕迹──安静妈妈的人生（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180512.mp3",
@@ -625,5 +614,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bf20181124/bf/bf181124.mp3",
 		"id": 1181124
+	},
+	{
+		"time": "20181125",
+		"title": "夏炎牧师谈：探索兴趣（2）；歌曲：《心的发现》、《量身订做的爱》",
+		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf181125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bf20181125/bf/bf181125.mp3",
+		"id": 1181125
 	}
 ]
