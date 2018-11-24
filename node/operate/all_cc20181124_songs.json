@@ -1,27 +1,5 @@
 [
 	{
-		"time": "20180909",
-		"title": "心存主道：羊圈（张道明老师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180909.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/cc20180909/cc/cc180909.mp3",
-		"id": 15180909
-	},
-	{
-		"time": "20180908",
-		"title": "乐哉家庭：真儿子、真父亲（11）麦希真牧师夫妇分享",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180908.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/cc20180908/cc/cc180908.mp3",
-		"id": 15180908
-	},
-	{
 		"time": "20180910",
 		"title": "每周辅导教室：在痛苦中感恩",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180910.mp3",
@@ -943,6 +921,28 @@
 		"artistId": 15,
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cc20181124/cc/cc181124.mp3",
+		"id": 15181124
+	},
+	{
+		"time": "20181125",
+		"title": "心存主道：传道书（10）（郑子民）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181125.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cc20181125/cc/cc181125.mp3",
+		"id": 15181125
+	},
+	{
+		"time": "20181124",
+		"title": "乐哉家庭：单身关顾（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181124.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cc20181124/cc/cc181124.mp3",
 		"id": 15181124
 	}
 ]
