@@ -1252,5 +1252,16 @@
 		"artistName": "经动人心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ba20181124/ba/ba181124.mp3",
 		"id": 35181124
+	},
+	{
+		"time": "20181125",
+		"title": "耶稣精彩的一生：耶稣差派门徒",
+		"downUrl": "http://txly2.net/ly/audio/2018/ba/ba181125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 35,
+		"artistName": "经动人心",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ba20181125/ba/ba181125.mp3",
+		"id": 35181125
 	}
 ]
