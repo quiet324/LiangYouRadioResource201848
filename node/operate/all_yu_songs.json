@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180819",
-		"title": "祝你健康：急诊",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180819.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/yu20180819/yu/yu180819.mp3",
-		"id": 7180819
-	},
-	{
 		"time": "20180820",
 		"title": "绝妙一周乐：The Inner Room",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180820.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/yu20181124/yu/yu181124.mp3",
 		"id": 7181124
+	},
+	{
+		"time": "20181125",
+		"title": "祝你健康：中风（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yu20181125/yu/yu181125.mp3",
+		"id": 7181125
 	}
 ]
