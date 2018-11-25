@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180817",
-		"title": "健康的身体",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180817.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/it20180817/it/it180817.mp3",
-		"id": 41180817
-	},
-	{
 		"time": "20180820",
 		"title": "正确的关系",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180820.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/it20181123/it/it181123.mp3",
 		"id": 41181123
+	},
+	{
+		"time": "20181126",
+		"title": "神的旨意：神对你的计划（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181126.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/it20181126/it/it181126.mp3",
+		"id": 41181126
 	}
 ]
