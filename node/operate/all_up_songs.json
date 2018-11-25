@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180817",
-		"title": "教导儿女智财教育：第五课、回馈社会（上）储蓄的动机",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180817.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/up20180817/up/up180817.mp3",
-		"id": 20180817
-	},
-	{
 		"time": "20180820",
 		"title": "亲情厨房：水果传（7）橄榄和百香果；与父母促膝谈：保持圣洁",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180820.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/up20181123/up/up181123.mp3",
 		"id": 20181123
+	},
+	{
+		"time": "20181126",
+		"title": "情绪与真理（21）心意更新而变化（3）（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181126.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/up20181126/up/up181126.mp3",
+		"id": 20181126
 	}
 ]
