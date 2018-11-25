@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180817",
-		"title": "赞美旋律：史蒂芬．佛斯特之《有明亮棕发的珍妮》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180817.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/cw20180817/cw/cw180817.mp3",
-		"id": 51180817
-	},
-	{
 		"time": "20180820",
 		"title": "生命之歌：爱德蒙‧劳伦斯《主你正怀念我》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180820.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181123/cw/cw181123.mp3",
 		"id": 51181123
+	},
+	{
+		"time": "20181126",
+		"title": "生命之歌：许兰格《我灵镇静》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181126.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181126/cw/cw181126.mp3",
+		"id": 51181126
 	}
 ]
