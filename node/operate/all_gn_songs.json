@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180817",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180817.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/gn20180817/gn/gn180817.mp3",
-		"id": 22180817
-	},
-	{
 		"time": "20180820",
 		"title": "成功与虚空──黄祯祥的故事（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180820.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/gn20181123/gn/gn181123.mp3",
 		"id": 22181123
+	},
+	{
+		"time": "20181126",
+		"title": "新的开始",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181126.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/gn20181126/gn/gn181126.mp3",
+		"id": 22181126
 	}
 ]
