@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "火烧百合的故事（诗20篇）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/mw20180820/mw/mw180820.mp3",
-		"id": 30180820
-	},
-	{
 		"time": "20180821",
 		"title": "自省认罪的祷告（诗25篇）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180821.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181125/mw/mw181125.mp3",
 		"id": 30181125
+	},
+	{
+		"time": "20181126",
+		"title": "灵命渐长（诗23篇）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181126.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181126/mw/mw181126.mp3",
+		"id": 30181126
 	}
 ]
