@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "生命之歌：爱德蒙‧劳伦斯《主你正怀念我》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/cw20180820/cw/cw180820.mp3",
-		"id": 51180820
-	},
-	{
 		"time": "20180821",
 		"title": "弹指之间：《主的喜乐是我力量》、《自耶稣来住在我心》、《献上感恩》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180821.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181126/cw/cw181126.mp3",
 		"id": 51181126
+	},
+	{
+		"time": "20181127",
+		"title": "弹指之间：《你的话》、《立定心志》、《主居首位》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181127/cw/cw181127.mp3",
+		"id": 51181127
 	}
 ]
