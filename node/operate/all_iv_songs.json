@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "约瑟──正直与宽恕系列：监狱与遗忘（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/iv20180820/iv/iv180820.mp3",
-		"id": 42180820
-	},
-	{
 		"time": "20180821",
 		"title": "约瑟──正直与宽恕系列：监狱与遗忘（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180821.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/iv20181126/iv/iv181126.mp3",
 		"id": 42181126
+	},
+	{
+		"time": "20181127",
+		"title": "'俗世中的超自然生活系列：神的眷顾切实可行（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/iv20181127/iv/iv181127.mp3",
+		"id": 42181127
 	}
 ]
