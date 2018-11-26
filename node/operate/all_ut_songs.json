@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "情感交流站：看见大光",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/ut20180820/ut/ut180820.mp3",
-		"id": 18180820
-	},
-	{
 		"time": "20180821",
 		"title": "为神建立家室：最好的圣诞礼物",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180821.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ut20181126/ut/ut181126.mp3",
 		"id": 18181126
+	},
+	{
+		"time": "20181127",
+		"title": "为神建立家室：约翰壹书概论",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ut20181127/ut/ut181127.mp3",
+		"id": 18181127
 	}
 ]
