@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "正确的关系",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/it20180820/it/it180820.mp3",
-		"id": 41180820
-	},
-	{
 		"time": "20180821",
 		"title": "冒险犯难（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180821.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/it20181126/it/it181126.mp3",
 		"id": 41181126
+	},
+	{
+		"time": "20181127",
+		"title": "触摸，改变",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/it20181127/it/it181127.mp3",
+		"id": 41181127
 	}
 ]
