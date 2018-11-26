@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180821",
-		"title": "绽放生命的光芒：慕勒（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180821.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/ee20180821/ee/ee180821.mp3",
-		"id": 29180821
-	},
-	{
 		"time": "20180822",
 		"title": "智慧语录：学会倾听，是一个人的基本素养；诗情细语话人生：诗篇的心灵之约（14）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180822.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ee20181126/ee/ee181126.mp3",
 		"id": 29181126
+	},
+	{
+		"time": "20181127",
+		"title": "绽放生命的光芒：宣信（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ee20181127/ee/ee181127.mp3",
+		"id": 29181127
 	}
 ]
