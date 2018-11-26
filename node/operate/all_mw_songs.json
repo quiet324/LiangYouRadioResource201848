@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180821",
-		"title": "自省认罪的祷告（诗25篇）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180821.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/mw20180821/mw/mw180821.mp3",
-		"id": 30180821
-	},
-	{
 		"time": "20180822",
 		"title": "神国勇士（士6:11-24）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180822.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181126/mw/mw181126.mp3",
 		"id": 30181126
+	},
+	{
+		"time": "20181127",
+		"title": "十字架的大能（林前1:18-2:2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181127/mw/mw181127.mp3",
+		"id": 30181127
 	}
 ]
