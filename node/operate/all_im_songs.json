@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "心磁场大平台：当被告知血癌末期突至──带着度假轻松的心情参加营会，妻子突然昏倒，送至医院抢救竟被查出血癌晚期，生命最多只剩下六个月……然而这对患难中的夫妻却在病房里欢声笑语……更不可思议的事接踵发生……",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180820.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/im20180820/im/im180820.mp3",
-		"id": 14180820
-	},
-	{
 		"time": "20180821",
 		"title": "曼曼成长记：用物质奖励孩子好吗？──有人认为若要培养孩子赚钱理财的能力，就要让孩子从小体会到物质金钱带来的好处，于是，孩子考试达到了家长的要求，孩子帮手做家务满足了父母的期待等，就拿物质和金钱作为交换的条件。可结果……",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180821.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/im20181126/im/im181126.mp3",
 		"id": 14181126
+	},
+	{
+		"time": "20181127",
+		"title": "曼曼成长记：怒气发作，积极暂停──家长会因为什么原因向孩子生气发怒呢？既然怒气无益，何不采取积极暂停的办法，不仅适时停止怒火蔓延，也让孩子从中学到控制怒气的做法。教育孩子不是一朝一夕的事，而教育孩子的过程也是在教育自己。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/im20181127/im/im181127.mp3",
+		"id": 14181127
 	}
 ]
