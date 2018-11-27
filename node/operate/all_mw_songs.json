@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180822",
-		"title": "神国勇士（士6:11-24）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180822.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/mw20180822/mw/mw180822.mp3",
-		"id": 30180822
-	},
-	{
 		"time": "20180823",
 		"title": "信靠顺服（来7:11-28）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180823.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181127/mw/mw181127.mp3",
 		"id": 30181127
+	},
+	{
+		"time": "20181128",
+		"title": "有盼望的人生（诗84篇）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181128/mw/mw181128.mp3",
+		"id": 30181128
 	}
 ]
