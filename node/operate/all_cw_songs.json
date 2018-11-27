@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180821",
-		"title": "弹指之间：《主的喜乐是我力量》、《自耶稣来住在我心》、《献上感恩》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180821.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/cw20180821/cw/cw180821.mp3",
-		"id": 51180821
-	},
-	{
 		"time": "20180822",
 		"title": "心歌心曲：伯特利音乐《你让我勇敢》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180822.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181127/cw/cw181127.mp3",
 		"id": 51181127
+	},
+	{
+		"time": "20181128",
+		"title": "心歌心曲：撒拉弗乐团《宝贝在瓦器里》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181128/cw/cw181128.mp3",
+		"id": 51181128
 	}
 ]
