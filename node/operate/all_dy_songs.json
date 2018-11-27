@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180820",
-		"title": "好得无比，每一天：你在思考吗？（诗86:11-13）；职场转化（11）（主持：林诚）；我爱背金句：提前3:15下",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180820.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/dy20180820/dy/dy180820.mp3",
-		"id": 24180820
-	},
-	{
 		"time": "20180821",
 		"title": "好得无比，每一天：理智的敬拜（约4:24）；跟随耶稣的脚踪行：耶稣的“我是”（11）（主持：程蒙恩）；我爱背金句：提前3:15下",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180821.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/dy20181126/dy/dy181126.mp3",
 		"id": 24181126
+	},
+	{
+		"time": "20181127",
+		"title": "好得无比，每一天：跟结婚不同吗？（太19:5-6）；马太福音说书（12）；我爱背金句：约4:36",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181127.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/dy20181127/dy/dy181127.mp3",
+		"id": 24181127
 	}
 ]
