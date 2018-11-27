@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180822",
-		"title": "音乐咕咕钟：我深深渴慕",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180822.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/pc20180822/pc/pc180822.mp3",
-		"id": 17180822
-	},
-	{
 		"time": "20180823",
 		"title": "巨人的秘密：战国秦国官员甘罗（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180823.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/pc20181127/pc/pc181127.mp3",
 		"id": 17181127
+	},
+	{
+		"time": "20181128",
+		"title": "音乐咕咕钟：何等伟大的爱",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181128.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/pc20181128/pc/pc181128.mp3",
+		"id": 17181128
 	}
 ]
