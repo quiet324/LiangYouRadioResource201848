@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180821",
-		"title": "为神建立家室：最好的圣诞礼物",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180821.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/ut20180821/ut/ut180821.mp3",
-		"id": 18180821
-	},
-	{
 		"time": "20180822",
 		"title": "为神建立家室：进入方舟",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180822.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ut20181127/ut/ut181127.mp3",
 		"id": 18181127
+	},
+	{
+		"time": "20181128",
+		"title": "为神建立家室：永远的生命",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ut20181128/ut/ut181128.mp3",
+		"id": 18181128
 	}
 ]
