@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180823",
-		"title": "信靠顺服（来7:11-28）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180823.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/mw20180823/mw/mw180823.mp3",
-		"id": 30180823
-	},
-	{
 		"time": "20180824",
 		"title": "敬虔母亲的祷告（可5:21-36）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180824.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181128/mw/mw181128.mp3",
 		"id": 30181128
+	},
+	{
+		"time": "20181129",
+		"title": "使我莫忘客西马尼（创3:13-24）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181129/mw/mw181129.mp3",
+		"id": 30181129
 	}
 ]
