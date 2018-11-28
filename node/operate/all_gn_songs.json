@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180822",
-		"title": "成功与虚空──黄祯祥的故事（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180822.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/gn20180822/gn/gn180822.mp3",
-		"id": 22180822
-	},
-	{
 		"time": "20180823",
 		"title": "成功与虚空──黄祯祥的故事（4）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180823.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/gn20181128/gn/gn181128.mp3",
 		"id": 22181128
+	},
+	{
+		"time": "20181129",
+		"title": "文学会客室：黄春明与《儿子的大玩偶》",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/gn20181129/gn/gn181129.mp3",
+		"id": 22181129
 	}
 ]
