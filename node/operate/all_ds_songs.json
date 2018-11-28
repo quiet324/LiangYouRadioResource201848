@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180823",
-		"title": "宣教心之路：教会未能差派宣教士的原因（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180823.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/ds20180823/ds/ds180823.mp3",
-		"id": 46180823
-	},
-	{
 		"time": "20180824",
 		"title": "从布道到培训：危急中的帮助（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180824.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ds20181128/ds/ds181128.mp3",
 		"id": 46181128
+	},
+	{
+		"time": "20181129",
+		"title": "宣教心之路：非洲宣教的甜酸苦辣（上）（主持：林诚；嘉宾：平弟兄）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ds20181129/ds/ds181129.mp3",
+		"id": 46181129
 	}
 ]
