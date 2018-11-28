@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180822",
-		"title": "约瑟──正直与宽恕系列：记念与晋升（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180822.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/iv20180822/iv/iv180822.mp3",
-		"id": 42180822
-	},
-	{
 		"time": "20180823",
 		"title": "约瑟──正直与宽恕系列：记念与晋升（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180823.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/iv20181128/iv/iv181128.mp3",
 		"id": 42181128
+	},
+	{
+		"time": "20181129",
+		"title": "在恩典中觉醒系列：恩典真是奇妙！（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/iv20181129/iv/iv181129.mp3",
+		"id": 42181129
 	}
 ]
