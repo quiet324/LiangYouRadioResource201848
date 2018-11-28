@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180821",
-		"title": "好得无比，每一天：理智的敬拜（约4:24）；跟随耶稣的脚踪行：耶稣的“我是”（11）（主持：程蒙恩）；我爱背金句：提前3:15下",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180821.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/dy20180821/dy/dy180821.mp3",
-		"id": 24180821
-	},
-	{
 		"time": "20180822",
 		"title": "好得无比，每一天：三心两意（诗86:11）；建立生活的基石（11）（主持：刘芳）；我爱背金句：提前3:15下",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180822.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/dy20181127/dy/dy181127.mp3",
 		"id": 24181127
+	},
+	{
+		"time": "20181128",
+		"title": "好得无比，每一天：科学迷信（创1:1）；马太福音说书（13）；我爱背金句：约4:36",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181128.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/dy20181128/dy/dy181128.mp3",
+		"id": 24181128
 	}
 ]
