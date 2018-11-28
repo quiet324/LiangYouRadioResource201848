@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180822",
-		"title": "信心日引：抵挡恶者（太5:39-40）；大阅读家：第十章、忙得没时间阅读-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180822.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/bc20180822/bc/bc180822.mp3",
-		"id": 10180822
-	},
-	{
 		"time": "20180823",
 		"title": "信心日引：古老的美好日子（传7:10）；大阅读家：第十一章、心神不定-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180823.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bc20181128/bc/bc181128.mp3",
 		"id": 10181128
+	},
+	{
+		"time": "20181129",
+		"title": "信心日引：不只是常识（创23:12-13）；做基督的管家：第一章、我们是基督的管家-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bc20181129/bc/bc181129.mp3",
+		"id": 10181129
 	}
 ]
