@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180824",
-		"title": "信仰Q&A：为什么许多基督徒同事比非基督徒同事更忧虑与不开心？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180824.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 3,
-		"artistName": "天使夜未眠",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/ka20180824/ka/ka180824.mp3",
-		"id": 3180824
-	},
-	{
 		"time": "20180825",
 		"title": "你我祂的故事：讹诈人的税吏撒该",
 		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180825.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "天使夜未眠",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ka20181128/ka/ka181128.mp3",
 		"id": 3181128
+	},
+	{
+		"time": "20181129",
+		"title": "回收人生ing：超乎想象，我结婚成为人夫──丹尼尔（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka181129.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 3,
+		"artistName": "天使夜未眠",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/ka20181129/ka/ka181129.mp3",
+		"id": 3181129
 	}
 ]
