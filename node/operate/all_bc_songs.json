@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180823",
-		"title": "信心日引：古老的美好日子（传7:10）；大阅读家：第十一章、心神不定-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180823.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/bc20180823/bc/bc180823.mp3",
-		"id": 10180823
-	},
-	{
 		"time": "20180824",
 		"title": "黑暗中的舞者：第十九章、回到天堂",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180824.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bc20181129/bc/bc181129.mp3",
 		"id": 10181129
+	},
+	{
+		"time": "20181130",
+		"title": "彩虹花园：第十一章、穿白衣同行-2；第十二章、花园活过来了-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181130.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bc20181130/bc/bc181130.mp3",
+		"id": 10181130
 	}
 ]
