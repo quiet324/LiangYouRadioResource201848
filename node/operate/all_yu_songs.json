@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180824",
-		"title": "绝妙小剧场：站在天国门口",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180824.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/yu20180824/yu/yu180824.mp3",
-		"id": 7180824
-	},
-	{
 		"time": "20180825",
 		"title": "动绝妙：Chris的篮球路",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180825.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yu20181129/yu/yu181129.mp3",
 		"id": 7181129
+	},
+	{
+		"time": "20181130",
+		"title": "生活小偏方：整理桌面达人",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181130.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yu20181130/yu/yu181130.mp3",
+		"id": 7181130
 	}
 ]
