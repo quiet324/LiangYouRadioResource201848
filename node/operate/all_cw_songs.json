@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180823",
-		"title": "来吧赞美：《得释放》、《医治我》、《将心给我》、《每当我瞻仰你》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180823.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/cw20180823/cw/cw180823.mp3",
-		"id": 51180823
-	},
-	{
 		"time": "20180824",
 		"title": "赞美旋律：莫扎特《C小调弥撒曲》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180824.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181129/cw/cw181129.mp3",
 		"id": 51181129
+	},
+	{
+		"time": "20181130",
+		"title": "赞美旋律：贝多芬《第九号交响曲》第四乐章（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181130.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/cw20181130/cw/cw181130.mp3",
+		"id": 51181130
 	}
 ]
