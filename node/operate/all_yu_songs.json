@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180825",
-		"title": "动绝妙：Chris的篮球路",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180825.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/yu20180825/yu/yu180825.mp3",
-		"id": 7180825
-	},
-	{
 		"time": "20180901",
 		"title": "动绝妙：精进篮球的三个秘诀",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180901.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yu20181130/yu/yu181130.mp3",
 		"id": 7181130
+	},
+	{
+		"time": "20181201",
+		"title": "绝妙生活系列：时间分配（5）时间分配的步骤（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181201.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yu20181201/yu/yu181201.mp3",
+		"id": 7181201
 	}
 ]
