@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180825",
-		"title": "两个兽（1）（启13:1-3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180825.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/th20180825/th/th180825.mp3",
-		"id": 32180825
-	},
-	{
 		"time": "20180901",
 		"title": "两个兽（2）（启13:4-10）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180901.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/th20181130/th/th181130.mp3",
 		"id": 32181130
+	},
+	{
+		"time": "20181201",
+		"title": "七碗之灾（4）（启16:12-16）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181201.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/th20181201/th/th181201.mp3",
+		"id": 32181201
 	}
 ]
