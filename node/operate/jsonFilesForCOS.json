@@ -34594,5 +34594,8 @@
 	},
 	{
 		"fileName": "../operate/all_sg20181201_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ls20181201_songs.json"
 	}
 ]
